@@ -1,7 +1,7 @@
 module.exports = {
     //CHANGE ALL OF THESE
     channelid: "813181762602926150",
-    token: "ODExMzgwNjU5NDQzNDY2MjYx.YCxXHw.hE1Rlpu_U3saxLcctfTkGbn0wUo",
+    token: "ODExMzgwNjU5NDQzNDY2MjYx.YCxXHw.e4pGF5fTcTDQBnMP_hVIhZehh0M",
     botname: "Loomi",
 
     // API AUTHORIZATION
